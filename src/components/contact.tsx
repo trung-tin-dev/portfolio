@@ -45,7 +45,7 @@ export default function Contact() {
         </p>
       </Reveal>
 
-      <div className="mt-14 grid gap-6 md:grid-cols-2">
+      <div className="mt-14 grid gap-6 md:grid-cols-3">
         {contacts.map((item, index) => {
           const Icon = item.icon;
 
