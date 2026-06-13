@@ -1,7 +1,7 @@
 import Reveal from "./reveal";
-import { FaAngellist } from "react-icons/fa";
-import { FaGithub, FaFacebook, FaPhone } from "react-icons/fa";
+import { FaGithub, FaPhone } from "react-icons/fa";
 import { HiArrowUpRight } from "react-icons/hi2";
+import { TbMailFast } from "react-icons/tb";
 const contacts = [
   {
     title: "GitHub",
@@ -15,7 +15,7 @@ const contacts = [
     title: "Email",
     value: "tatin3469@gmail.com",
     href: "#",
-    icon: FaAngellist, // hoặc FaEnvelope hợp lý hơn
+    icon: TbMailFast, // hoặc FaEnvelope hợp lý hơn
     hoverClass:
       "hover:border-sky-400/30 hover:bg-sky-500/10 hover:text-sky-300",
   },
