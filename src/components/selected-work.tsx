@@ -171,14 +171,10 @@ export default function SelectedWork() {
                 </p>
 
                 <h3 className="mt-4 text-2xl font-semibold">
-                  Cinema Booking System
+                  Glamour-Nails
                 </h3>
 
-                <p className="mt-4 max-w-2xl text-zinc-400">
-                  A production-inspired cinema booking platform focused on
-                  scalability, clean architecture, and real-world booking
-                  workflows.
-                </p>
+                
                 <div className="mt-8 flex flex-wrap gap-3">
                   <a
                     href="#"
@@ -196,7 +192,7 @@ export default function SelectedWork() {
                   </a>
 
                   <a
-                    href="https://github.com/trung-tin-dev/cineverse"
+                    href="https://github.com/trung-tin-dev/Glamour-Nails"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="
