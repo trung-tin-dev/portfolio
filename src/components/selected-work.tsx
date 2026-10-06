@@ -38,7 +38,7 @@ export default function SelectedWork() {
               </p>
 
               <h3 className="mt-4 text-2xl font-semibold">
-                Cinema Booking System
+                Glamour-Nails
               </h3>
 
               <p className="mt-4 max-w-2xl text-zinc-400">
@@ -177,7 +177,8 @@ export default function SelectedWork() {
                 
                 <div className="mt-8 flex flex-wrap gap-3">
                   <a
-                    href="#"
+                    href="https://glamour-nails-omega.vercel.app/"
+                    target="_blank"
                     className="
               rounded-full
               border border-white/10
